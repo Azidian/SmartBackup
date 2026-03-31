@@ -1,0 +1,8 @@
+[2026-03-31 16:16:39] [INFO ] src=/home/Nandecito/OS-class/EAFIT/Backup/Prueba_So2-main/Makefile dst=/home/Nandecito/OS-class/EAFIT/Backup/try/Makefile  INICIO copia user-space (stdio fread/fwrite)
+[2026-03-31 16:16:39] [INFO ] src=/home/Nandecito/OS-class/EAFIT/Backup/Prueba_So2-main/Makefile dst=/home/Nandecito/OS-class/EAFIT/Backup/try/Makefile  FIN copia user-space OK
+[2026-03-31 16:21:49] [INFO ] src=/home/Nandecito/OS-class/EAFIT/Backup/Prueba_So2-main.zip dst=/home/Nandecito/OS-class/EAFIT/intento/Prueba_So2-main.zip  INICIO copia user-space (stdio fread/fwrite)
+[2026-03-31 16:21:49] [INFO ] src=/home/Nandecito/OS-class/EAFIT/Backup/Prueba_So2-main.zip dst=/home/Nandecito/OS-class/EAFIT/intento/Prueba_So2-main.zip  FIN copia user-space OK
+[2026-03-31 16:38:41] [INFO ] src=/home/isa/EAFIT/isa_prueba.txt      dst=./backups/isa_prueba.txt             INICIO copia user-space (stdio fread/fwrite)
+[2026-03-31 16:38:41] [INFO ] src=/home/isa/EAFIT/isa_prueba.txt      dst=./backups/isa_prueba.txt             FIN copia user-space OK
+[2026-03-31 16:39:48] [INFO ] src=/home/isa/EAFIT/isa_prueba.txt      dst=/home/isa/EAFIT/Respaldoarch/isa_prueba.txt  INICIO copia user-space (stdio fread/fwrite)
+[2026-03-31 16:39:48] [INFO ] src=/home/isa/EAFIT/isa_prueba.txt      dst=/home/isa/EAFIT/Respaldoarch/isa_prueba.txt  FIN copia user-space OK
